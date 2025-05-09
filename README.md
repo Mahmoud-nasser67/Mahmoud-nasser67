@@ -92,4 +92,33 @@
 
 ###
 
+## 📌 Featured Projects
+
+### 🎨 [Portfolio Website](https://portfolio-omega-vert-79.vercel.app)
+> My personal portfolio showcasing my skills and work.
+
+![Portfolio Screenshot](https://github.com/MohamedElgazwy/Portfolio/raw/main/screenshot.png)
+
+---
+
+### 🍕 [Pizzeria React](https://pizzeria-react.vercel.app)
+> A pizza ordering UI built with React and TailwindCSS.
+
+![Pizzeria Screenshot](https://github.com/MohamedElgazwy/Pizzeria/raw/main/screenshot.png)
+
+---
+
+### 🎬 [usePopcorn](https://usepopcorn-eight.vercel.app)
+> A movie search & rating app using the OMDB API and React hooks.
+
+![usePopcorn Screenshot](https://github.com/MohamedElgazwy/usepopcorn/raw/main/screenshot.png)
+
+---
+
+### 🌍 [Far Away](https://far-away-eight.vercel.app/)
+> Travel packing list app built using React state and component design.
+
+![FarAway Screenshot](https://github.com/MohamedElgazwy/far-away/raw/master/screenshot.png)
+
+---
 
