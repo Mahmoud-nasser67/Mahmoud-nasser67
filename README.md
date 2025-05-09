@@ -20,8 +20,8 @@
     <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/gmail/default.svg" width="37" height="25" alt="gmail logo"  />
   </a>
 </div>
+
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=500&size=19&duration=4999&pause=1000&width=435&lines=I%E2%80%99m+working+as+a+Backend+Developer+;working+as+a+Freelancer+since+2023;I+specialize+in+Web+Scraping)](https://git.io/typing-svg)
-###
 
 <div align="center">
   <img src="https://visitor-badge.laobi.icu/badge?page_id=Mahmoud-nasser67.Mahmoud-nasser67&"  />
