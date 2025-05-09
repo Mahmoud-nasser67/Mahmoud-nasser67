@@ -1,4 +1,4 @@
-https://readme-typing-svg.herokuapp.com/demo/?weight=500&size=19&duration=4999&lines=I%E2%80%99m+working+as+a+Backend+Developer+;working+as+a+Freelancer+since+2023;I+specialize+in+Web+Scraping
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=500&size=19&duration=4999&pause=1000&width=435&lines=I%E2%80%99m+working+as+a+Backend+Developer+;working+as+a+Freelancer+since+2023;I+specialize+in+Web+Scraping)](https://git.io/typing-svg)
 <h4 align="center">Mahmoud Nasser – Backend developer with a passion for turning ideas into digital reality. 🚀</h4>
 
 ###
