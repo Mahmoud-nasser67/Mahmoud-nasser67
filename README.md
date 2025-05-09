@@ -94,7 +94,7 @@
 
 ## 📌 Featured Projects
 
-### 🎨 [django_project_managment]([https://portfolio-omega-vert-79.vercel.app](https://media-hosting.imagekit.io/2058a2a10f114b2e/diploma-of-project-management-2x.jpg?Expires=1841409182&Key-Pair-Id=K2ZIVPTIP2VGHC&Signature=Op9y45CTx9OLWZnW~aCWPCpxKunfBKueoT2RORZ81IaIf14D2OSB0klFicExEjcRGQl4D0HPteJwBAfahOpRD3FUXxoNXIuXy8mZEAr8Jm932LfigkxsGd1fHSbX1t3RJKphjTM9xgP8FzMX1CChc8kivMRBkVGWqMwjGDf~e5YZhIpRc9xIhD09x4jfhpKZO9OtMnpT5R48KJdXrpPsr0OtCoE9544nWKiSGEu6BwvssfmMUXmqTREC6yaBB32V718-IN3ewhAz4gZHEGf6CZbtJvOxY4eT~Qc~BchAk-UjFLXJq8Vym971zNsYsELlOh1skvMkZr1jEgPt7M0Z0A__))
+### 🎨 [django_project_managment](https://github.com/Mahmoud-nasser67/django_project_managment)
 > My personal portfolio showcasing my skills and work.
 
 ![Portfolio Screenshot]([https://github.com/MohamedElgazwy/Portfolio/raw/main/screenshot.png](https://media-hosting.imagekit.io/2058a2a10f114b2e/diploma-of-project-management-2x.jpg?Expires=1841409182&Key-Pair-Id=K2ZIVPTIP2VGHC&Signature=Op9y45CTx9OLWZnW~aCWPCpxKunfBKueoT2RORZ81IaIf14D2OSB0klFicExEjcRGQl4D0HPteJwBAfahOpRD3FUXxoNXIuXy8mZEAr8Jm932LfigkxsGd1fHSbX1t3RJKphjTM9xgP8FzMX1CChc8kivMRBkVGWqMwjGDf~e5YZhIpRc9xIhD09x4jfhpKZO9OtMnpT5R48KJdXrpPsr0OtCoE9544nWKiSGEu6BwvssfmMUXmqTREC6yaBB32V718-IN3ewhAz4gZHEGf6CZbtJvOxY4eT~Qc~BchAk-UjFLXJq8Vym971zNsYsELlOh1skvMkZr1jEgPt7M0Z0A__))
