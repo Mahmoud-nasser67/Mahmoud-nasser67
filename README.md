@@ -100,25 +100,14 @@
 ![Portfolio Screenshot](https://media-hosting.imagekit.io/2058a2a10f114b2e/diploma-of-project-management-2x.jpg?Expires=1841409182&Key-Pair-Id=K2ZIVPTIP2VGHC&Signature=Op9y45CTx9OLWZnW~aCWPCpxKunfBKueoT2RORZ81IaIf14D2OSB0klFicExEjcRGQl4D0HPteJwBAfahOpRD3FUXxoNXIuXy8mZEAr8Jm932LfigkxsGd1fHSbX1t3RJKphjTM9xgP8FzMX1CChc8kivMRBkVGWqMwjGDf~e5YZhIpRc9xIhD09x4jfhpKZO9OtMnpT5R48KJdXrpPsr0OtCoE9544nWKiSGEu6BwvssfmMUXmqTREC6yaBB32V718-IN3ewhAz4gZHEGf6CZbtJvOxY4eT~Qc~BchAk-UjFLXJq8Vym971zNsYsELlOh1skvMkZr1jEgPt7M0Z0A__)
 
 ---
+### 🎨 [simulation-project]([https://github.com/Mahmoud-nasser67/django_project_managment](https://github.com/Mahmoud-nasser67/simulation-project))
+> A realistic banking system simulation built with Django, providing core banking functionalities
 
-### 🍕 [Pizzeria React](https://pizzeria-react.vercel.app)
-> A pizza ordering UI built with React and TailwindCSS.
-
-![Pizzeria Screenshot](https://github.com/MohamedElgazwy/Pizzeria/raw/main/screenshot.png)
-
----
-
-### 🎬 [usePopcorn](https://usepopcorn-eight.vercel.app)
-> A movie search & rating app using the OMDB API and React hooks.
-
-![usePopcorn Screenshot](https://github.com/MohamedElgazwy/usepopcorn/raw/main/screenshot.png)
+![Portfolio Screenshot](https://media-hosting.imagekit.io/a7439a2934f744d3/Cybernetics%20Simulation_quer.jpg?Expires=1841409307&Key-Pair-Id=K2ZIVPTIP2VGHC&Signature=mHSyubPGuLX6YBnv2Mkwh8z~-LstYdW3RciTXwySRPSzwCMYSZqpzFOR6Y22yL8zpn8JLlAbXypCsnY~UdE19hNyS22y0Qtcqbsnv8bm5Q6YIVS1CiDCGeDj~h-zikk4czbvB39IXTMXRT9SFtP~eMz~MPjnETXbb1oWpVpR86FnUEjpN3G5EMp-EK9CpZwsPHX~q5m7wrb-5aCwoelgMeuCOGBbrvPXwvP7E81KPU6l77KiJhngOZv6~uIQaFfe~YihWr7PDSdRuHRhCWxg0zN3A1wQoarUkwVFIHRzJpCxAeunLQlw0BaNCUJV2ToEb5IaI1kwz46qZ6dxmT0lRA__)
 
 ---
+### 🎨 [Qr-code]([https://github.com/Mahmoud-nasser67/django_project_managment](https://github.com/Mahmoud-nasser67/Qr-code))
+> project to create Qr code and make scan to code with database mysql
 
-### 🌍 [Far Away](https://far-away-eight.vercel.app/)
-> Travel packing list app built using React state and component design.
-
-![FarAway Screenshot](https://github.com/MohamedElgazwy/far-away/raw/master/screenshot.png)
-
----
+![Portfolio Screenshot](https://media-hosting.imagekit.io/f9e1ec05d7c54aa6/Screenshot%20(330).png?Expires=1841413121&Key-Pair-Id=K2ZIVPTIP2VGHC&Signature=Rp2fjQtUwXabnoOmkYfxuUqm~rCL4BkOHg9eWl5XkC9pq0Q0Cg2aOYrJq3PV3PBvRgReqoRGIUxoLnbLTsjzXfSw5Dl4~4J7U3Ubq67wZ1c7PYtj6YkfLKgYTX08EYUFhxEqAlX-0FVnxAE~OaJ2IQnUjD11dyW0mQymNGiBbHBGLak8vsa0TXdHC6CPt49UGhGaxmLCMvWXXRbLwvNnN4Msy0sETetf3KbsEw85WXVjTIQ9BPqp5FkToayo9cgTrROw8uJE6U5FK5plNXF3Yg9EfSEgL6tUBLK0ecaz8xWOM6kbl5dydRfBk8b9Yr4FxvtuOZnxo0wYs7sXB8~KHg__)
 
