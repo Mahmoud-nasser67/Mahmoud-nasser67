@@ -95,17 +95,8 @@
 ###
 
 <div align="center">
-  <img src="https://github-read-medium-git-main.pahlevikun.vercel.app/latest?limit=4&theme=chartreuse-dark" alt="Layout with last medium posts"  />
+  <img src="[https://github-read-medium-git-main.pahlevikun.vercel.app/latest?limit=4&theme=chartreuse-dark](https://www.google.com/url?sa=i&url=https%3A%2F%2Fpngtree.com%2Ffreepng%2Fhand-drawn-cartoon-thank-you-for-visiting-red-font_5394902.html&psig=AOvVaw2tY-pTau_AIZSJ0PAUMKG4&ust=1746884080484000&source=images&cd=vfe&opi=89978449&ved=0CBQQjRxqFwoTCOCz-7_Alo0DFQAAAAAdAAAAABAp)" alt="Layout with last medium posts"  />
 </div>
 
-###
 
-<img src="https://raw.githubusercontent.com/Mahmoud-nasser67/Mahmoud-nasser67/output/snake.svg" alt="Snake animation" />
 
-###
-
-<div align="center">
-  <img src="https://github-read-medium-git-main.pahlevikun.vercel.app/latest?limit=4&username=https://inneeddata.com/ar/" alt="Layout with last medium posts"  />
-</div>
-
-###
