@@ -20,9 +20,10 @@
     <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/gmail/default.svg" width="37" height="25" alt="gmail logo"  />
   </a>
 </div>
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=500&size=19&duration=4999&pause=1000&width=435&lines=I%E2%80%99m+working+as+a+Backend+Developer+;working+as+a+Freelancer+since+2023;I+specialize+in+Web+Scraping)](https://git.io/typing-svg)
 
 ###
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=500&size=19&duration=4999&pause=1000&width=435&lines=I%E2%80%99m+working+as+a+Backend+Developer+;working+as+a+Freelancer+since+2023;I+specialize+in+Web+Scraping)](https://git.io/typing-svg)
+
 <div align="center">
   <img src="https://visitor-badge.laobi.icu/badge?page_id=Mahmoud-nasser67.Mahmoud-nasser67&"  />
 </div>
@@ -71,32 +72,27 @@
 
 ###
 
-<div align="center">
-  <img height="200" src="https://i.imgflip.com/65efzo.gif"  />
-</div>
+<h2 align="center">thanks for visiting</h2>
 
 ###
 
-<div align="left">
+<div align="center">
   <a href="https://web.facebook.com/profile.php?id=100068888688424" target="_blank">
-    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/facebook/default.svg" width="52" height="40" alt="facebook logo"  />
+    <img src="https://img.shields.io/static/v1?message=Facebook&logo=facebook&label=&color=1877F2&logoColor=white&labelColor=&style=for-the-badge" height="40" alt="facebook logo"  />
   </a>
   <a href="https://wa.me/201158974592" target="_blank">
-    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/whatsapp/default.svg" width="52" height="40" alt="whatsapp logo"  />
+    <img src="https://img.shields.io/static/v1?message=Whatsapp&logo=whatsapp&label=&color=25D366&logoColor=white&labelColor=&style=for-the-badge" height="40" alt="whatsapp logo"  />
   </a>
   <a href="https://tl.me/201158974592" target="_blank">
-    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/telegram/default.svg" width="52" height="40" alt="telegram logo"  />
+    <img src="https://img.shields.io/static/v1?message=Telegram&logo=telegram&label=&color=2CA5E0&logoColor=white&labelColor=&style=for-the-badge" height="40" alt="telegram logo"  />
   </a>
   <a href="https://www.linkedin.com/in/mahmoud-nasser-26ab282a5/" target="_blank">
-    <img src="https://www.google.com/url?sa=i&url=https%3A%2F%2Fpngtree.com%2Ffreepng%2Fhand-drawn-cartoon-thank-you-for-visiting-red-font_5394902.html&psig=AOvVaw2tY-pTau_AIZSJ0PAUMKG4&ust=1746884080484000&source=images&cd=vfe&opi=89978449&ved=0CBQQjRxqFwoTCOCz-7_Alo0DFQAAAAAdAAAAABAp" width="52" height="40" alt="linkedin logo"  />
+    <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="40" alt="linkedin logo"  />
   </a>
 </div>
 
 ###
 
-<div align="center">
-  <img src="https://www.google.com/url?sa=i&url=https%3A%2F%2Fpngtree.com%2Ffreepng%2Fhand-drawn-cartoon-thank-you-for-visiting-red-font_5394902.html&psig=AOvVaw2tY-pTau_AIZSJ0PAUMKG4&ust=1746884080484000&source=images&cd=vfe&opi=89978449&ved=0CBQQjRxqFwoTCOCz-7_Alo0DFQAAAAAdAAAAABAp" alt="Layout with last medium posts"  />
-</div>
+<img src="https://raw.githubusercontent.com/Mahmoud-nasser67/Mahmoud-nasser67/output/snake.svg" alt="Snake animation" />
 
-
-
+###
