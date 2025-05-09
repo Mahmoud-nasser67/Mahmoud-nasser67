@@ -88,7 +88,7 @@
     <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/telegram/default.svg" width="52" height="40" alt="telegram logo"  />
   </a>
   <a href="https://www.linkedin.com/in/mahmoud-nasser-26ab282a5/" target="_blank">
-    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/linkedin/default.svg" width="52" height="40" alt="linkedin logo"  />
+    <img src="https://www.google.com/url?sa=i&url=https%3A%2F%2Fpngtree.com%2Ffreepng%2Fhand-drawn-cartoon-thank-you-for-visiting-red-font_5394902.html&psig=AOvVaw2tY-pTau_AIZSJ0PAUMKG4&ust=1746884080484000&source=images&cd=vfe&opi=89978449&ved=0CBQQjRxqFwoTCOCz-7_Alo0DFQAAAAAdAAAAABAp" width="52" height="40" alt="linkedin logo"  />
   </a>
 </div>
 
