@@ -92,6 +92,4 @@
 
 ###
 
-<img src="https://raw.githubusercontent.com/Mahmoud-nasser67/Mahmoud-nasser67/output/snake.svg" alt="Snake animation" />
-
 
